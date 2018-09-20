@@ -30,7 +30,7 @@ DEALINGS IN THE SOFTWARE.  */
 #include <string.h>
 #include <stdio.h>
 #include <errno.h>
-#include <zlib.h>
+#include "/usr/include/zlib.h"
 #include "bedidx.h"
 
 #include "htslib/ksort.h"

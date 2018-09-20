@@ -28,7 +28,7 @@ DEALINGS IN THE SOFTWARE.  */
 #include <stdlib.h>
 #include <string.h>
 #include <stdio.h>
-#include <zlib.h>
+#include "/usr/include/zlib.h"
 #include <unistd.h>
 #include "htslib/sam.h"
 #include "sam_opts.h"

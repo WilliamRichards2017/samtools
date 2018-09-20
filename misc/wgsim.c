@@ -38,7 +38,7 @@
 #include <stdint.h>
 #include <ctype.h>
 #include <string.h>
-#include <zlib.h>
+#include "/usr/include/zlib.h"
 #include "../version.h"
 #include "htslib/kseq.h"
 #include "htslib/hts_os.h"

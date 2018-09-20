@@ -26,7 +26,7 @@ DEALINGS IN THE SOFTWARE.  */
 
 #include <stdio.h>
 #include <unistd.h>
-#include <zlib.h>
+#include "/usr/include/zlib.h"
 #include <getopt.h>
 #include "htslib/kseq.h"
 #include "htslib/hts.h"

@@ -25,7 +25,7 @@ DEALINGS IN THE SOFTWARE.  */
 #include <config.h>
 
 #include <stdio.h>
-#include <zlib.h>
+#include "/usr/include/zlib.h"
 #include "htslib/kseq.h"
 #include "htslib/hts.h"
 

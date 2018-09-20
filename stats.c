@@ -49,7 +49,7 @@ DEALINGS IN THE SOFTWARE.  */
 #include <getopt.h>
 #include <errno.h>
 #include <assert.h>
-#include <zlib.h>   // for crc32
+#include "/usr/include/zlib.h"   // for crc32
 #include <htslib/faidx.h>
 #include <htslib/sam.h>
 #include <htslib/hts.h>

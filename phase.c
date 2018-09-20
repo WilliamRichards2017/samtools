@@ -30,7 +30,7 @@ DEALINGS IN THE SOFTWARE.  */
 #include <unistd.h>
 #include <stdint.h>
 #include <math.h>
-#include <zlib.h>
+#include "/usr/include/zlib.h"
 #include "htslib/hts.h"
 #include "htslib/sam.h"
 #include "htslib/kstring.h"

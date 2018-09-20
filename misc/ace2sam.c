@@ -29,7 +29,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <unistd.h>
-#include <zlib.h>
+#include "/usr/include/zlib.h"
 #include "htslib/kstring.h"
 #include "htslib/kseq.h"
 KSTREAM_INIT(gzFile, gzread, 16384)
