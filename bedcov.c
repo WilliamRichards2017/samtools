@@ -25,7 +25,7 @@ DEALINGS IN THE SOFTWARE.  */
 
 #include <config.h>
 
-#include "/usr/bin/zlib.h"
+#include "/usr/include/zlib.h"
 #include <stdio.h>
 #include <ctype.h>
 #include <stdlib.h>
